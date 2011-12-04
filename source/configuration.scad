@@ -24,7 +24,6 @@ linear = true;
 //also for the x carriage
 linear_bearings = true;
 
-
 // CHANGE ONLY THE STUFF YOU KNOW
 // IT WILL REPLACE DEFAULT SETTING
 
