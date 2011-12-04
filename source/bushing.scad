@@ -138,8 +138,8 @@ translate(v=[0,0,3]) cylinder(h = 1, r1=10-1, r2=10.2, $fn=50);
 // Gregs
 clearance=0.7;
 
-lm8uu_diameter=15+clearance;
-lm8uu_length=24+clearance;
+lm8uu_diameter=16+clearance;
+lm8uu_length=25+clearance;
 lm8uu_support_thickness=3.2; 
 lm8uu_end_diameter=m8_diameter+1.5;
 
