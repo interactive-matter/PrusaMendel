@@ -21,6 +21,8 @@ thin_wall = 3;
 
 // LM8UU
 linear = true;
+//also for the x carriage
+linear_bearings = true;
 
 
 // CHANGE ONLY THE STUFF YOU KNOW
